@@ -3,8 +3,8 @@
 		<author>bdubyah</author>
 		<name>Nuka Factory</name>
 		<description>Nuka Factory prefab. Needs the Nuka Colas mod to be installed.</description>
-		<mod_version>1.0</mod_version>
-		<game_version>17.3</game_version>
+		<mod_version>1.1</mod_version>
+		<game_version>18.0</game_version>
 		<launcher_version>0.0.0</launcher_version>
 	</info>
 </mod>
