@@ -1,2 +1,1 @@
-https://github.com/bdubyah/Prefabs/tree/master/Nuka_Factory
 https://github.com/bdubyah/Prefabs/tree/master/Nuka_Factory_Vanilla
